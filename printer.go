@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/carted/graphql/language/printer"
+	"github.com/graphql-go/graphql/language/printer"
 	gAst "github.com/graphql-go/graphql/language/ast"
 	"github.com/vektah/gqlparser/v2/ast"
 )
