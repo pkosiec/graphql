@@ -10,4 +10,6 @@ require (
 	golang.org/x/net v0.0.0-20190213061140-3a22650c66bd // indirect
 )
 
+replace github.com/graphql-go/graphql => github.com/pkosiec/graphql-1 v0.7.10-0.20201208110622-388f8a2d4f19
+
 go 1.13
